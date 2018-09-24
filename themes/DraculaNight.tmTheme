@@ -14,7 +14,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#0E0E12</string>
+				<string>#0F1014</string>
 				<key>caret</key>
 				<string>#f8f8f0</string>
 				<key>foreground</key>
@@ -47,13 +47,26 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Comment</string>
+			<key>scope</key>
+			<string>comment</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9EB3FF</string>
+				<key>fontStyle</key>
+				<string> italic  </string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>String</string>
 			<key>scope</key>
 			<string>string</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#8CFAA8</string>
+				<string>#90EBA0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -147,7 +160,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ff79c6</string>
+				<string>#C9535B</string>
 			</dict>
 		</dict>
 		<dict>
